@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:0,Albert
+#EXTINF:0 tvg-logo="http://cdn5.zevalo.net/wp-content/uploads/2016/05/albert-122x172.jpg",Albert
 http://aam.cdn.vizplay.org/v2/e7a03beebe48f304b8bf8f407f0d9930.mp4?st=9fwAhCJJikc3HDbhrUKSCA&hash=ecr0fnYPFNYrpHZ10BaPBQ
 
 #EXTINF:0 tvg-logo="http://s20.postimg.org/pzgk5ow6x/asteriks_naselje_bogova_mala.jpg",Asterix i Grad Bogova (Hr)
@@ -12,9 +12,6 @@ http://acs.cdn.vizplay.org/m1/5b2020ef136dd0395ddbcf86a3ae977e.mp4?st=Nt8OPUIKcj
 #EXTINF:0 tvg-logo="http://crtanionline.com/wp-content/uploads/2015/10/Sundjer-na-Suvom-133x179.jpg",Sunðer Bob: Sunðer Na Suvom (Srb)
 http://abz.cdn.vizplay.org/v2/6fa7cbdd151f113a1c9d6c6b4ff6f156.mp4?st=WIIK-vOz9bB_ixQot62E9g&hash=_0EGp584wxhoTheu0nOyig
 
-#EXTINF:0 tvg-logo="http://crtanionline.com/wp-content/uploads/2015/10/Sundjer-na-Suvom-133x179.jpg",Sunðer Bob: Sunðer Na Suvom (Srb)
-http://179.43.147.98/pwx2n7hjzim56odwtyjopcxx5kaxe33bzxaomipx74deqijssef6m53gjfaa/v.mp4
-
 #EXTINF:0 tvg-logo="http://www.crtanifilmovi.rs/wp-content/uploads/2016/07/kung-fu-panda-3.jpg",Kun FU Panda 3 (Srb)
 http://aci.cdn.vizplay.org/v1/9f59fed1b91718d33217ae79693a50a1.mp4?st=KTRDI62lpUeG1LCraN_sbQ&hash=BTdZayQNwMgD1CS6YnqODA
 
@@ -25,7 +22,22 @@ http://aca.cdn.vizplay.org/v1/cbc643c3a0d7bdc9b908dcfe902ac2f2.mp4?st=J3Dec-BTup
 http://ab1.cdn.vizplay.org/v2a/6f443ded664b513ff3321e524be26f6c.mp4?st=bqKTlKFfhEL9Hdx8wYf--Q&hash=hHv_94GzTC2-M2UW51GmWg
 
 #EXTINF:0 tvg-logo="http://i.imgur.com/DLNrxLK.jpg",Maksimum UM (Hr)
-http://abu.cdn.vizplay.org/v2/365517138d5f0b77ee70e43436350462.mp4?st=1m3wl03CpAP1SGiSlE5nhQ&hash=4Jes8J-I8zFELDI3UE_YGA
+http://abu.cdn.vizplay.org/v2/365517138d5f0b77ee70e43436350462.mp4?st=1m3wl03CpAP1SGiSlE5nhQ&hash=4Jes8J-I8zFELDI3UE_YGA
 
 #EXTINF:0 tvg-logo="",Simpsonovi (Hr)
 http://acr.cdn.vizplay.org/v2/06e5f2dbfc7696b22026b575f877fe01.mp4?st=tPohdsDe5zF8bclJCUuajQ&hash=MNhN6LrGXHlqIaFo_jUBMg
+
+#EXTINF:0 tvg-logo="http://cdn4.zevalo.net/wp-content/uploads/2016/06/ups-noa-je-otisao-122x172.jpg",UPS! Noa Je Otišao (Hr)
+http://abs.cdn.vizplay.org/v1/57b9ce59cbd0247c44f14d16c1d72559.mp4?st=4xgxXCoeFdnt-Pm7_C8EZQ&hash=DRW7J34PTAX0QLv53MnOMA
+
+#EXTINF:0 tvg-logo="http://zevalo.net/crtani-filmovi/dugometrazni-sinhronizovani-crtani-filmovi/rokeri-iz-kokosinjca-rock-a-doodle/",Rokeri Iz Kokošinjca-Rock A Doodle (Hr)
+http://ab1.cdn.vizplay.org/v2a/fe7bebef1757a8cb1b16858b4e95b593.mp4?st=uIEWxOkYPp26OmC65RBaPA&hash=QzwR4AqFYuAjyjnI5jysBQ
+
+
+
+
+
+
+
+
+
