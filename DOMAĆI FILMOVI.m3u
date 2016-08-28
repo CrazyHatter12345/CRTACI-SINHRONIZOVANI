@@ -20,16 +20,16 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=5RoYqg
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/sr/8/88/Lude_godine_1.jpg" group-title=">>> L <<<",Lude Godine 1: Eh mladost-ludost! (1977)
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=OQOeH5g9xPI
 
-#EXTINF:0 tvg-logo="https://sr.wikipedia.org/wiki/%D0%94%D0%BE%D1%88%D0%BB%D0%BE_%D0%B4%D0%BE%D0%B1%D0%B0_%D0%B4%D0%B0_%D1%81%D0%B5_%D1%99%D1%83%D0%B1%D0%B0%D0%B2_%D0%BF%D1%80%D0%BE%D0%B1%D0%B0#/media/File:Doslodoba.jpg" group-title=">>> L <<<",Lude Godine 2: Došlo doba Da Se Ljubav Proba (1980)
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/sr/thumb/6/65/Doslodoba.jpg/250px-Doslodoba.jpg" group-title=">>> L <<<",Lude Godine 2: Došlo doba da se ljubav proba (1980)
+http://proxy-002.dc3.dailymotion.com/sec(bc9bdd1d1226e5821bb03bbc6183c328)/video/143/304/145403341_mp4_h264_aac_l2.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/sr/d/d9/Ljubiljubi.jpg" group-title=">>> L <<<",Lude Godine 3: Ljubi Ljubi al glavu nE gubi (1981)
 http://proxy-076.dc3.dailymotion.com/sec(79c7a7b46a32293533fcb15e522ddb94)/video/074/534/145435470_mp4_h264_aac.m3u8
 
-#EXTINF:0 tvg-logo="https://sr.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BA%D0%B0%D0%B2_%D0%B4%D0%B5%D0%B4%D0%B0_%D1%82%D0%B0%D0%BA%D0%B0%D0%B2_%D1%83%D0%BD%D1%83%D0%BA#/media/File:KakavDedaTakavUnuk.jpg" group-title=">>> L <<<",Lude Godine 4: Kakav deda takav unuk (1983)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/sr/thumb/a/ad/KakavDedaTakavUnuk.jpg/250px-KakavDedaTakavUnuk.jpg" group-title=">>> L <<<",Lude Godine 4: Kakav deda takav unuk (1983)
 http://proxy-030.dc3.dailymotion.com/sec(398b18a7cf9c96bede066c1780c2316c)/video/540/944/145449045_mp4_h264_aac.m3u8
 
-#EXTINF:0 tvg-logo="https://sr.wikipedia.org/wiki/%D0%94%D0%B0%D1%82%D0%BE%D1%82%D0%B5%D0%BA%D0%B0:Idimidodjimi.jpg" group-title=">>> L <<<",Lude Godine 5: Idi mi dodji mi (1983)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/sr/c/cc/Idimidodjimi.jpg" group-title=">>> L <<<",Lude Godine 5: Idi mi dodji mi (1983)
 http://proxy-077.dc3.dailymotion.com/sec(488a28bfc4ee277c22a3b80adf7326ec)/video/334/334/144433433_mp4_h264_aac_hq.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/sr/f/f5/Lude_godine_6.jpg" group-title=">>> L <<<",Lude Godine 6: Sta se zgodi kad se ljubav rodi (1984)
