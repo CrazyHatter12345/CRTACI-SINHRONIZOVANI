@@ -1,0 +1,50 @@
+#EXTM3U
+
+#EXTINF:0,Kamiondzije: Kod Boze Zeca
+http://va.mojvideo.com/1663978945594259ffea.mp4
+
+#EXTINF:0,Kamiondzije: Osnovna Skola
+http://vc.mojvideo.com/d4d594f0b95753c58a4c.mp4
+
+
+#EXTINF:0,[COLOR green]>>> J <<<[/COLOR]
+#EXTM3U
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/sr/1/12/Jet_set.jpg" group-title=">>> J <<<",JET SET (2007)
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=5RoYqg7Esl0
+
+
+#EXTINF:0,[COLOR green]>>> L <<<[/COLOR]
+#EXTM3U
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/sr/6/65/ZikinaDinastija.jpg" group-title=">>> L <<<",Lude Godine 8: Druga Žikina Dinastija (1986)
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=i7Xf_q2NxJ8
+
+
+#EXTINF:0,[COLOR green]>>> T <<<[/COLOR]
+#EXTM3U
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/sr/d/d1/Tesna_ko%C5%BEa_original.jpg" group-title=">>> T <<<",Tesna Koza 1 (1982)
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=aGpKQsZ60sM
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/sr/b/b5/Tesna_ko%C5%BEa_2_original.jpg" group-title=">>> T <<<",Tesna Koza 2 (1987)
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=mgpsjy9xcPY
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/sr/b/b5/Tesna_ko%C5%BEa_2_original.jpg" group-title=">>> T <<<",Tesna Koza 2 (1987)
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=4BliQYzdAbg
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/sr/6/6c/Tesna_ko%C5%BEa_3_original.jpg" group-title=">>> T <<<",Tesna Koza 3 (1988)
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=mwH7HOdyOhE
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/sr/6/6c/Tesna_ko%C5%BEa_3_original.jpg" group-title=">>> T <<<",Tesna Koza 3 (1988)
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ov_281W0eFQ
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/sr/0/08/Tesna_koza_4.jpg" group-title=">>> T <<<",Tesna Koza 4 (1991)
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ls7hXAXNG2k
+
+
+
+
+
+
+
