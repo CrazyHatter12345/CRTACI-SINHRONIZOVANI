@@ -1,17 +1,52 @@
 #EXTM3U
 
+
+#EXTINF:0,[COLOR red]NAPOMENA:[/COLOR]Ukoliko video koci ili secka pauzirajte ga na 10 do 15 minuta kako bi se ucitao i normalno radio.
+#EXTM3U
+
+
 #EXTINF:0,Kamiondzije: Kod Boze Zeca
 http://va.mojvideo.com/1663978945594259ffea.mp4
 
 #EXTINF:0,Kamiondzije: Osnovna Skola
 http://vc.mojvideo.com/d4d594f0b95753c58a4c.mp4
 
+#EXTINF:0,[COLOR green]>>> A <<<[/COLOR]
+#EXTM3U
+
+#EXTINF:0,[COLOR green]>>> B <<<[/COLOR]
+#EXTM3U
+
+#EXTINF:0,[COLOR green]>>> C <<<[/COLOR]
+#EXTM3U
+
+#EXTINF:0,[COLOR green]>>> D <<<[/COLOR]
+#EXTM3U
+
+#EXTINF:0,[COLOR green]>>> E <<<[/COLOR]
+#EXTM3U
+
+#EXTINF:0,[COLOR green]>>> F <<<[/COLOR]
+#EXTM3U
+
+#EXTINF:0,[COLOR green]>>> G <<<[/COLOR]
+#EXTM3U
+
+#EXTINF:0,[COLOR green]>>> H <<<[/COLOR]
+#EXTM3U
+
+#EXTINF:0,[COLOR green]>>> I <<<[/COLOR]
+#EXTM3U
 
 #EXTINF:0,[COLOR green]>>> J <<<[/COLOR]
 #EXTM3U
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/sr/1/12/Jet_set.jpg" group-title=">>> J <<<",JET SET (2007)
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=5RoYqg7Esl0
+
+
+#EXTINF:0,[COLOR green]>>> K <<<[/COLOR]
+#EXTM3U
 
 
 #EXTINF:0,[COLOR green]>>> L <<<[/COLOR]
@@ -41,6 +76,31 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=wX5xjY
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/sr/6/65/ZikinaDinastija.jpg" group-title=">>> L <<<",Lude Godine 8: Druga Zikina Dinastija (1986)
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=i7Xf_q2NxJ8
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/sr/6/65/ZikinaDinastija.jpg" group-title=">>> L <<<",Lude Godine 8: Druga Zikina Dinastija (1986)
+http://proxy-036.dc3.dailymotion.com/sec(8b9264877067ab75837a4c24af40a4fa)/video/163/093/145390361_mp4_h264_aac.m3u8
+
+
+#EXTINF:0,[COLOR green]>>> M <<<[/COLOR]
+#EXTM3U
+
+#EXTINF:0,[COLOR green]>>> N <<<[/COLOR]
+#EXTM3U
+
+#EXTINF:0,[COLOR green]>>> O <<<[/COLOR]
+#EXTM3U
+
+#EXTINF:0,[COLOR green]>>> P <<<[/COLOR]
+#EXTM3U
+
+#EXTINF:0,[COLOR green]>>> Q <<<[/COLOR]
+#EXTM3U
+
+#EXTINF:0,[COLOR green]>>> R <<<[/COLOR]
+#EXTM3U
+
+#EXTINF:0,[COLOR green]>>> S <<<[/COLOR]
+#EXTM3U
+
 
 #EXTINF:0,[COLOR green]>>> T <<<[/COLOR]
 #EXTM3U
@@ -62,6 +122,25 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ov_281
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/sr/0/08/Tesna_koza_4.jpg" group-title=">>> T <<<",Tesna Koza 4 (1991)
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ls7hXAXNG2k
+
+
+#EXTINF:0,[COLOR green]>>> U <<<[/COLOR]
+#EXTM3U
+
+#EXTINF:0,[COLOR green]>>> V <<<[/COLOR]
+#EXTM3U
+
+#EXTINF:0,[COLOR green]>>> W <<<[/COLOR]
+#EXTM3U
+
+#EXTINF:0,[COLOR green]>>> X <<<[/COLOR]
+#EXTM3U
+
+#EXTINF:0,[COLOR green]>>> Y <<<[/COLOR]
+#EXTM3U
+
+#EXTINF:0,[COLOR green]>>> Z <<<[/COLOR]
+#EXTM3U
 
 
 
